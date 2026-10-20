@@ -24,7 +24,7 @@ Lo comprobé entrando al enlace del explorador de Stellar. Ahí pude revisar el 
 | Qué sé hacer | Programo en Python, Java y C++; trabajo con bases de datos, APIs, automatización e inteligencia artificial. Me gusta convertir problemas reales en soluciones tecnológicas funcionales. |
 | Qué quiero aprender en la ruta | Blockchain, Web3 y contratos inteligentes, y cómo integrarlos con inteligencia artificial para crear soluciones innovadoras. |
 | Un problema que me gustaría resolver | Facilitar el acceso a servicios financieros y oportunidades de inversión mediante tecnología, haciéndolos más accesibles, seguros y transparentes. |
-| Ya tengo con quién hacer equipo | Sí: @diego131t-max (Juan Diego Ortiz) y Carlos Figueroa |
+| Ya tengo con quién hacer equipo | Sí: @diego131t-max (Juan Diego Ortiz) y @FigueroaCarlos (Carlos Figueroa) |
 
 ## Declaración de uso de IA para este archivo
 
