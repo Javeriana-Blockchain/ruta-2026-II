@@ -56,6 +56,8 @@ En Windows con cmd, en vez de `cp -r` usa `xcopy ..\ruta-central\starters\s3-bui
 
 Luego `git add -A && git commit -m "chore: starter de la sesión 3"`.
 
+**¿Sin computador propio o sin poder instalar Node?** Haz todo esto en GitHub Codespaces: en tu repo de equipo, **Code → Codespaces → Create codespace on main**. Es un VS Code en el navegador con Node y Git ya instalados; los comandos de esta guía funcionan igual. Cuando corras `npm run dev`, la pestaña **Ports** muestra el 5173: ábrelo con el icono del globo y la app queda en una URL `https://...app.github.dev` donde Freighter funciona como en localhost (el `vite.config.js` del starter ya detecta Codespaces). El plan gratuito da 120 horas-núcleo al mes, de sobra para la semana.
+
 # Parte 1 · Ruta Fundamentos: tu app con wallet
 
 ## 1.1 Correr la app
