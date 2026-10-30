@@ -1,0 +1,7 @@
+# Pega estas líneas al final del .gitignore de tu repo de equipo (solo si aún no están)
+# node (app/)
+app/node_modules/
+app/dist/
+app/.env
+app/packages/
+!app/.env.example
