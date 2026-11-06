@@ -9,7 +9,7 @@ Repositorio central del semillero de blockchain de la Pontificia Universidad Jav
 | Vie 16 oct | S1 · Arranque y primera transacción | — |
 | Vie 23 oct | S2 · Activos (Fundamentos) · Primer contrato Soroban (Builders) | PR #1: tu ficha en `participantes/` |
 | Vie 30 oct | S3 · Wallets, anclas e integraciones (40 min; el taller se hace en casa) | PR #2 (por equipo) |
-| Vie 6 nov | S4 · Taller integrador y reto sin IA | PR #3 (por equipo) |
+| Vie 6 nov | S4 · Taller integrador: reto sin IA, integración y prueba oral (135 min) | PR #3 (por equipo) |
 | Vie 13 nov | S5 · Demo Day | PR #4 (por equipo) |
 
 Office hours: todos los martes, virtual, 60 min (enlace en el grupo).
@@ -18,6 +18,7 @@ Office hours: todos los martes, virtual, 60 min (enlace en el grupo).
 
 - [Semana 1 · PR #1: tu ficha de participante](GUIA_PR1.md)
 - [Semana 3 · Taller en casa de la sesión 3 y PR #3: tu app con wallet / contrato + frontend](GUIA_S3.md) ([PDF](GUIA_S3.pdf))
+- [Semana 4 · PR #4: el proyecto listo para el Demo Day (README final, pitch, lista de verificación de la demo)](GUIA_S4.md) ([PDF](GUIA_S4.pdf))
 
 ## Recursos de estudio
 
